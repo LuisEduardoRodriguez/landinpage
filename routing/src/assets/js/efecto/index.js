@@ -1,7 +1,7 @@
 window.sr = ScrollReveal();
 
     sr.reveal('.hero_header',{
-        duration: 2000,
+        duration: 4000,
         origin: 'bottom',
         distance:'-200px',
 
@@ -79,15 +79,5 @@ window.sr = ScrollReveal();
         origin: 'bottom',
         distance:'-400px',
 
-    }); sr.reveal('.cards',{
-        duration: 4000,
-        origin: 'rigth',
-        distance:'-400px',
-
-    }); sr.reveal('.cards2',{
-        duration: 4000,
-        origin: 'left',
-        distance:'-400px',
-
-    });
+    }); 
   
